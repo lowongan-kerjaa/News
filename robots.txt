@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://lowongan-kerjaa.github.io/News/sitemap.xml
